@@ -3,6 +3,7 @@ import { render } from 'react-dom';
 // Components
 import Connexion from './components/Connexion';
 import App from './components/App';
+import NotFound from './components/NotFound';
 // Router
 import { BrowserRouter, Match, Miss } from 'react-router';
 // CSS
